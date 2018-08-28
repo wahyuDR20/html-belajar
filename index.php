@@ -1,6 +1,10 @@
+<!DOCTYPE HTML>
 <html>
 <head>
-Halo Selamat Datang</head>
+  <title>
+Halo Selamat Datang
+  </title>
+  </head>
 <body> 
 <h1> Halo Selmatang di Belajar HTML<h1>
 </body>
